@@ -15,9 +15,4 @@ public class Greeting {
     public String getGreetingText() {
         return greetingText;
     }
-
-    public void setGreetingText(String greetingText) {
-        this.greetingText = greetingText;
-    }
-
 }
